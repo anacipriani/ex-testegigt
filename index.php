@@ -12,6 +12,9 @@ and open the template in the editor.
     <body>
         <?php
         echo 'Iniciando o projeto';
+        echo 'Segundo echo :)';
+        echo 'Terceiro echo :)';
+        echo 'Quarto echo :)';
         ?>
     </body>
 </html>
